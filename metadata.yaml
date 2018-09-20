@@ -1,6 +1,9 @@
 _repo: Maailmankaupunki-Romaani_53313
 _version: 0.1.0
 alternative_title: The metropolis. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sinclair, Upton
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/88
     wikipedia: http://en.wikipedia.org/wiki/Upton_Sinclair
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53313#Maailmankaupunki-Romaani
 gutenberg_issued: '2016-10-18'
 gutenberg_type: Text
 identifiers:
