@@ -1,0 +1,31 @@
+_repo: Maailmankaupunki-Romaani_53313
+_version: 0.0.1
+alternative_title: The metropolis. Finnish
+creator:
+  author:
+    agent_name: Sinclair, Upton
+    aliases:
+    - Garrison, Frederick
+    - Sinclair, Upton Beall
+    - Fitch, Clarke
+    birthdate: 1878
+    deathdate: 1968
+    gutenberg_agent_id: '88'
+    url: http://www.gutenberg.org/2009/agents/88
+    wikipedia: http://en.wikipedia.org/wiki/Upton_Sinclair
+description: ''
+gutenberg_issued: '2016-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53313'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socialites -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Upper class -- Fiction'
+- GITenberg
+title: 'Maailmankaupunki: Romaani'
+url: http://www.gutenberg.org/ebooks/53313
